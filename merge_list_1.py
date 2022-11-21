@@ -4,6 +4,7 @@ def merge(list1, list2):
     sp.sort()
     return sp
 
+
 # считываем данные
 numbers1 = [int(c) for c in input().split()]
 numbers2 = [int(c) for c in input().split()]
